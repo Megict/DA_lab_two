@@ -1,0 +1,8 @@
+! Save empty.b
+! Load asdfghjli
++ a 11 
+a
+b
+! Save /file
+! Load empty.b
+! Save amt/file_in_dir
